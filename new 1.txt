@@ -1,0 +1,28 @@
+Chuong 2: (nhieu nhat) 
+Tong quan ve bai toan
+bai toan cua em la gi 
+----
+phan tich thiet ke 
+- gioi thieu bai toan (nua trang)
+- Cong cu ho tro( toi da 5 trang)
+- phan tich
+- CSDL (4 truong)
+ => Tong 25 trang 
+
+Demo: 
+Mô tả quá trình 
+Ket luan, Huong phat trien
+
+
+-----------
+
+PP k viết quá nhiều 
+
+---
+CHuc nang tim kiem : Tim theo ten mon, ten nha hang 
+Chuc nang order: Đặt hàng, (nếu count < 0 : báo hết hàng, count > so luong: )
+Chuc nang khuyen mai, trừ vào giá bán.
+chuc nang review.
+Chuc nang map, tính quãng đường.
+
+
